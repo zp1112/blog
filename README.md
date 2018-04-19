@@ -21,6 +21,10 @@
 - [使用github强大的issues功能来写博客](https://github.com/zp1112/blog/issues/3)
 
 
+
+- [使用强大的Travis CI实现自动化部署，使用coveralls搭配测试代码覆盖率展示](https://github.com/zp1112/blog/issues/5)
+
+
 ### 关于我
 
 前端开发工程师。
