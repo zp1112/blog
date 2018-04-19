@@ -25,12 +25,9 @@
 
 喜欢打羽毛球，喜欢小狗狗。
 
-很久不更新的博客在这里，哈哈  [我的博客](http://blog.suzper.com)  我马上会好好整理的~
-
-更久不更新的gitbook在这里，呵呵  [web开发实用工具和技巧整理收集](http://cool.suzper.com/)  我以后会好好整理的~
+很久不更新的博客在这里，  [我的博客](http://blog.suzper.com)  
 
 想起就来一下的lofter，emmmmmm   [zpcandy.lofter.com](http://zpcandy.lofter.com/)
 
-写了自己都不用的组件库，555555   [cd-ui](http://www.icodin.cn/cdcomponents/#/billboard)
 
 
